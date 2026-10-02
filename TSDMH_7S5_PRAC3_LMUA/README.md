@@ -1,5 +1,6 @@
 # PRÁCTICA 3:
 ## Notificación con datos introducidos
-<img width="571" height="738" alt="Imagen pegada (4)" src="https://github.com/user-attachments/assets/64a85e7e-83a3-4e54-8834-1177a4950951" />
-<img width="1358" height="760" alt="Imagen pegada (3)" src="https://github.com/user-attachments/assets/e3185e73-ad57-478f-896c-2ee11db1dcb3" />
-<img width="1358" height="760" alt="Imagen pegada (2)" src="https://github.com/user-attachments/assets/e13c857d-8702-4171-bb3c-bda7ed4ef262" />
+En esta practica desarrollamos una app que solicita Nombre y Edad al usuario para posteriormente mostrar los datos en un cuadro de notificación
+
+<img width="273" height="585" alt="Imagen pegada (2)" src="https://github.com/user-attachments/assets/35c51321-eb37-4837-9330-b57553cba756" />
+<img width="273" height="585" alt="Imagen pegada" src="https://github.com/user-attachments/assets/29e7a057-227d-4d36-8a0e-d9f6a16ecb6f" />
